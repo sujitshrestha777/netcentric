@@ -1,0 +1,7 @@
+C:\Users\sujit\source\repos\jagged array\jagged array\bin\Debug\jagged array.exe.config
+C:\Users\sujit\source\repos\jagged array\jagged array\bin\Debug\jagged array.exe
+C:\Users\sujit\source\repos\jagged array\jagged array\bin\Debug\jagged array.pdb
+C:\Users\sujit\source\repos\jagged array\jagged array\obj\Debug\jagged array.csproj.AssemblyReference.cache
+C:\Users\sujit\source\repos\jagged array\jagged array\obj\Debug\jagged array.csproj.CoreCompileInputs.cache
+C:\Users\sujit\source\repos\jagged array\jagged array\obj\Debug\jagged array.exe
+C:\Users\sujit\source\repos\jagged array\jagged array\obj\Debug\jagged array.pdb
