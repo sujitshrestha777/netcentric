@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sujit\\source\\netcentric\\Calculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{40E7A08D-8147-41CC-ADC0-BBB9DA5287F9}|Calculator\\Calculator.csproj|c:\\users\\sujit\\source\\netcentric\\calculator\\calculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{40E7A08D-8147-41CC-ADC0-BBB9DA5287F9}|Calculator\\Calculator.csproj|solutionrelative:calculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40E7A08D-8147-41CC-ADC0-BBB9DA5287F9}|Calculator\\Calculator.csproj|c:\\users\\sujit\\source\\netcentric\\calculator\\calculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40E7A08D-8147-41CC-ADC0-BBB9DA5287F9}|Calculator\\Calculator.csproj|solutionrelative:calculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40E7A08D-8147-41CC-ADC0-BBB9DA5287F9}|Calculator\\Calculator.csproj|c:\\users\\sujit\\source\\netcentric\\calculator\\calculator\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{40E7A08D-8147-41CC-ADC0-BBB9DA5287F9}|Calculator\\Calculator.csproj|solutionrelative:calculator\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40E7A08D-8147-41CC-ADC0-BBB9DA5287F9}|Calculator\\Calculator.csproj|c:\\users\\sujit\\source\\netcentric\\calculator\\calculator\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40E7A08D-8147-41CC-ADC0-BBB9DA5287F9}|Calculator\\Calculator.csproj|solutionrelative:calculator\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Result.cs",
+              "DocumentMoniker": "C:\\Users\\sujit\\source\\netcentric\\Calculator\\Calculator\\Result.cs",
+              "RelativeDocumentMoniker": "Calculator\\Result.cs",
+              "ToolTip": "C:\\Users\\sujit\\source\\netcentric\\Calculator\\Calculator\\Result.cs",
+              "RelativeToolTip": "Calculator\\Result.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAUwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T09:07:57.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Result.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\sujit\\source\\netcentric\\Calculator\\Calculator\\Result.cs",
+              "RelativeDocumentMoniker": "Calculator\\Result.cs",
+              "ToolTip": "C:\\Users\\sujit\\source\\netcentric\\Calculator\\Calculator\\Result.cs [Design]",
+              "RelativeToolTip": "Calculator\\Result.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T09:07:24.276Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\sujit\\source\\netcentric\\Calculator\\Calculator\\Form1.cs",
+              "RelativeDocumentMoniker": "Calculator\\Form1.cs",
+              "ToolTip": "C:\\Users\\sujit\\source\\netcentric\\Calculator\\Calculator\\Form1.cs",
+              "RelativeToolTip": "Calculator\\Form1.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwAwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T08:46:30.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\sujit\\source\\netcentric\\Calculator\\Calculator\\Form1.cs",
+              "RelativeDocumentMoniker": "Calculator\\Form1.cs",
+              "ToolTip": "C:\\Users\\sujit\\source\\netcentric\\Calculator\\Calculator\\Form1.cs [Design]",
+              "RelativeToolTip": "Calculator\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T08:46:22.012Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
