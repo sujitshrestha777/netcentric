@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sujit\\source\\netcentric\\MVC_Sample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E23FFC1-68CE-4DD7-B84A-27920E4E1899}|MVC_Sample\\MVC_Sample.csproj|c:\\users\\sujit\\source\\netcentric\\mvc_sample\\mvc_sample\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5E23FFC1-68CE-4DD7-B84A-27920E4E1899}|MVC_Sample\\MVC_Sample.csproj|solutionrelative:mvc_sample\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E23FFC1-68CE-4DD7-B84A-27920E4E1899}|MVC_Sample\\MVC_Sample.csproj|c:\\users\\sujit\\source\\netcentric\\mvc_sample\\mvc_sample\\views\\category\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5E23FFC1-68CE-4DD7-B84A-27920E4E1899}|MVC_Sample\\MVC_Sample.csproj|solutionrelative:mvc_sample\\views\\category\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E23FFC1-68CE-4DD7-B84A-27920E4E1899}|MVC_Sample\\MVC_Sample.csproj|c:\\users\\sujit\\source\\netcentric\\mvc_sample\\mvc_sample\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E23FFC1-68CE-4DD7-B84A-27920E4E1899}|MVC_Sample\\MVC_Sample.csproj|solutionrelative:mvc_sample\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E23FFC1-68CE-4DD7-B84A-27920E4E1899}|MVC_Sample\\MVC_Sample.csproj|c:\\users\\sujit\\source\\netcentric\\mvc_sample\\mvc_sample\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E23FFC1-68CE-4DD7-B84A-27920E4E1899}|MVC_Sample\\MVC_Sample.csproj|solutionrelative:mvc_sample\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\sujit\\source\\netcentric\\MVC_Sample\\MVC_Sample\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MVC_Sample\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\sujit\\source\\netcentric\\MVC_Sample\\MVC_Sample\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MVC_Sample\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwBwAAAB6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T13:13:35.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\Users\\sujit\\source\\netcentric\\MVC_Sample\\MVC_Sample\\Views\\category\\List.cshtml",
+              "RelativeDocumentMoniker": "MVC_Sample\\Views\\category\\List.cshtml",
+              "ToolTip": "C:\\Users\\sujit\\source\\netcentric\\MVC_Sample\\MVC_Sample\\Views\\category\\List.cshtml",
+              "RelativeToolTip": "MVC_Sample\\Views\\category\\List.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T13:10:16.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\sujit\\source\\netcentric\\MVC_Sample\\MVC_Sample\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "MVC_Sample\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\sujit\\source\\netcentric\\MVC_Sample\\MVC_Sample\\Models\\Category.cs",
+              "RelativeToolTip": "MVC_Sample\\Models\\Category.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T12:14:05.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\sujit\\source\\netcentric\\MVC_Sample\\MVC_Sample\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "MVC_Sample\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\sujit\\source\\netcentric\\MVC_Sample\\MVC_Sample\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "MVC_Sample\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwCgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T12:12:16.846Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
